@@ -21,6 +21,9 @@ You don't need to install anything extra. Just follow these simple steps:
 ---
 *Note: Ensure all files (`Silent Hill 4 VR Room.exe`, `room.glb`, and the `.dll` files) remain in the same folder, otherwise the game will not launch.*
 
+> [!IMPORTANT]
+> **This is a non-commercial fan-made project. All rights to Silent Hill belong to Konami.**
+
 
 
 
