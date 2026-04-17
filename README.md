@@ -15,7 +15,7 @@ You don't need to install anything extra. Just follow these simple steps:
 3. **Connect Your Headset:** * Turn on your **Meta Quest** headset.
    * Connect it to your PC using a Link Cable or Air Link.
    * Make sure the **Meta Quest app** (or SteamVR) is running and active on your PC.
-4. **Run the Game:** Open the extracted folder and double-click `vr.exe`.
+4. **Run the Game:** Open the extracted folder and double-click `Silent Hill 4 VR Room.exe`.
 5. **Explore:** Put on your headset, use the Left Thumbstick to walk, and enjoy the nostalgic atmosphere!
 
 ---
