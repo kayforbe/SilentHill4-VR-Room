@@ -20,3 +20,9 @@ You don't need to install anything extra. Just follow these simple steps:
 
 ---
 *Note: Ensure all files (`vr.exe`, `room.glb`, and the `.dll` files) remain in the same folder, otherwise the game will not launch.*
+
+
+
+
+https://github.com/user-attachments/assets/7de45c99-6f68-4e72-b6c4-ee54f1dfaace
+
